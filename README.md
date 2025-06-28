@@ -1,7 +1,7 @@
 # Reddit clone app
 
 ## Description
-Repo of Reddit clone application, built with Next 13. <br> DEMO: https://redditv2.vercel.app/
+Repo of Reddit clone application, built with Next 13. <br> DEMO: https://threaddit.onrender.com/
 
 ## Functionalities
 - Create account with email/google
